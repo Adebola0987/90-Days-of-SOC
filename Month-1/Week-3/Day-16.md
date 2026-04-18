@@ -13,4 +13,4 @@ Because **HTTP (Port 80)** does not use encryption (TLS/SSL), I can see the foll
 As a SOC Analyst, if I detect HTTP traffic on a sensitive segment of the network, my first action is to recommend a **Force-HTTPS** policy. Unencrypted traffic is an open invitation for "Man-in-the-Middle" attacks.
 
 **Evidence:**
-> ⚠️ **INVESTIGATION IN PROGRESS:** Screenshot of HTTP GET request and reconstructed stream will be uploaded here.
+ ![HTTP Stream Analysis](./Evidence/HTTP_Cleartext_Stream_Analy.png)
