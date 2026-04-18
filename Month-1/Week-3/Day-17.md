@@ -9,4 +9,4 @@ DNS acts as the "Phonebook of the Internet." I analyzed how endpoints find serve
 Attackers often use **DNS Tunneling** to sneak data out of a network because DNS traffic is rarely blocked by firewalls. Monitoring for high-frequency queries to unusual top-level domains (TLDs) is a key part of my threat hunting process.
 
 **Evidence:**
-> ⚠️ **INVESTIGATION IN PROGRESS:** Screenshot of DNS Query/Response packets will be uploaded here.
+![DNS Analysis](./Evidence/DNS_Query.png)
