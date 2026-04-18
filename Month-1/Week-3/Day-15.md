@@ -12,4 +12,4 @@ Today I analyzed the **Transmission Control Protocol (TCP)**, specifically the 3
 Understanding this handshake is the foundation of detecting **Network Scanning**. When I see a high volume of SYN packets followed by RST (Reset) or no response, I flag this as a "Port Scan." Attackers do this to map which services (like SSH or HTTP) are open on our servers. 
 
 **Evidence:**
-> ⚠️ **INVESTIGATION IN PROGRESS:** Wireshark capture of SYN/ACK sequence will be uploaded here.
+![TCP Handshake Analysis](./Evidence/TCP_HANDSHAKE.png)
