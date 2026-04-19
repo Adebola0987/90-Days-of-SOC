@@ -2,7 +2,7 @@
 **Task:** Identify the internal host communicating with the known malicious IP `45.131.214.85`.
 **Finding:** Host `10.2.28.2` was identified as the infected source.
 
-![Victim Discovery](./Evidence/Victim_IP_Discovery.jpg)
+!Month-1/Week-3/Evidence/Victim_IP_Discovery.png
 
 ---
 
