@@ -2,7 +2,7 @@
 **Task:** Identify the internal host communicating with the known malicious IP `45.131.214.85`.
 **Finding:** Host `10.2.28.2` was identified as the infected source.
 
-[Victim Discovery](./Evidence/Victim_IP_Discovery.png)
+![Victim Discovery](./Evidence/Victim_IP_Discovery.png)
 
 ---
 
@@ -10,9 +10,7 @@
 **Task:** Identify the physical machine and computer name.
 **Finding:** The machine is a **Dell** device with MAC address `14:b3:1f:2d:ce:69`, registered as `DESKTOP-TEYQ2NR`.
 
-![MAC Address Discovery](./Evidence
-/MAC Adddress.png)
-
+![MAC Address Discovery](./Evidence/MAC Adddress.png)
 
 ---
 
