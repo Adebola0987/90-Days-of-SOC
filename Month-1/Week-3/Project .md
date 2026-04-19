@@ -2,7 +2,7 @@
 **Task:** Identify the internal host communicating with the known malicious IP `45.131.214.85`.
 **Finding:** Host `10.2.28.2` was identified as the infected source.
 
-!Month-1/Week-3/Evidence/Victim_IP_Discovery.png
+[Victim Discovery](./Evidence/Victim_IP_Discovery.jpg)
 
 ---
 
@@ -27,4 +27,4 @@
 **Task:** Analyze the traffic pattern and identify the malware family.
 **Finding:** The traffic shows an HTTP POST beacon to the C2 server. The **User-Agent** confirms the use of **NetSupport Manager/1.3** as a Remote Access Trojan (RAT).
 
-![C2 Communication Stream](./Evidence/Post_C2_Beacon.jpg)
+![C2 Communication Stream](./Evidence/Post.jpg)
