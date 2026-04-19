@@ -10,7 +10,8 @@
 **Task:** Identify the physical machine and computer name.
 **Finding:** The machine is a **Dell** device with MAC address `14:b3:1f:2d:ce:69`, registered as `DESKTOP-TEYQ2NR`.
 
-![MAC Address Discovery](./Evidence/MAC Adddress.png)
+![MAC Address Discovery](./Evidence
+/MAC Adddress.png)
 
 
 ---
@@ -27,4 +28,4 @@
 **Task:** Analyze the traffic pattern and identify the malware family.
 **Finding:** The traffic shows an HTTP POST beacon to the C2 server. The **User-Agent** confirms the use of **NetSupport Manager/1.3** as a Remote Access Trojan (RAT).
 
-![C2 Communication Stream](./Evidence/Post.png)
+![C2 Communication Stream](./Evidence/post.png)
