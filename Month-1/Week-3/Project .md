@@ -10,8 +10,7 @@
 **Task:** Identify the physical machine and computer name.
 **Finding:** The machine is a **Dell** device with MAC address `14:b3:1f:2d:ce:69`, registered as `DESKTOP-TEYQ2NR`.
 
-![MAC Address Discovery](./Evidence/MAC Adddress.png)
-
+![MAC Address Discovery](./Evidence/MAC%20Adddress.png)
 ---
 
 ## 👤 Phase 3: User Attribution
