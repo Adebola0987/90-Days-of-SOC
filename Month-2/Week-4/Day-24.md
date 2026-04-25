@@ -1,4 +1,4 @@
-#  Week 4 Summary: Windows Forensic Fundamentals
+#  Summary: Windows Forensic Fundamentals
 
 ###  Learning Overview
 This week, I transitioned from Network analysis to Host-Based Forensics. I learned how to investigate a Windows machine to find evidence of attacker activity.
@@ -13,4 +13,4 @@ This week, I transitioned from Network analysis to Host-Based Forensics. I learn
 * **File System Navigation:** Understanding the significance of suspicious file paths (e.g., `Temp`, `Public`, `AppData`).
 
 ###  Next Steps
-Moving into **Week 5**, I will begin exploring **Linux Forensics** and mastering the Command Line (CLI) to hunt for threats on servers.
+Moving into **Day 25**, I will begin exploring **Linux Forensics** and mastering the Command Line (CLI) to hunt for threats on servers.
