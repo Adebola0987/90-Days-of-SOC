@@ -1,9 +1,9 @@
-# 🪟 Day 22: Windows Forensics - The Registry & Persistence
+# Windows Forensics - The Registry & Persistence
 
-### 🎯 Objective
+### Objective
 Investigating how attackers use the Windows Registry to maintain access.
 
-### 🕵️‍♂️ Investigation: The Registry "Run" Keys
+###  Investigation: The Registry "Run" Keys
 I explored the `HKEY_CURRENT_USER` hive to identify startup programs.
 
 ![Registry Persistence Search](./Evidence/RUN_KEYS.png)
