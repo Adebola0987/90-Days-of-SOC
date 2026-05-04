@@ -11,7 +11,7 @@ Description: Viewing the script logic in Nano, showcasing the use of ps, ss, and
 2. Real-Time Threat Identification
 During a live run, the script successfully identified unauthorized login attempts by parsing the SSH authentication logs.
 
-hunter.png
+hunter 2.png
 
 Description: Script execution output showing 3 invalid user attempts from a 'nonexistentuser', demonstrating the automated log analysis feature.
 
