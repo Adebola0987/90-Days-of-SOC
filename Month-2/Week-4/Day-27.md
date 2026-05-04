@@ -24,5 +24,7 @@ During a live run, the script successfully identified unauthorized login attempt
 ### 3. Persistence Audit
 The tool automatically scans for "Hidden Keys" by auditing user-level and system-wide Cron directories to detect unauthorized persistence.
 
+![Persistence Audit](hunter.png)
+*Figure 3: Automated audit of system-wide cron directories to identify potential attacker backdoors.*
 ![Persistence Audit](hunter%202_2.png)
 *Figure 3: Automated audit of system-wide cron directories to identify potential attacker backdoors.*
