@@ -1,6 +1,7 @@
 
-Overview
-In this lab, I transitioned from host-based forensics to Network Traffic Analysis. I used tcpdump to capture raw packets on a Kali Linux interface to verify the TCP Three-Way Handshake and identify external connections.
+Day 28: Network Traffic Analysis & TCP Handshake Verification
+🛰️ Lab Overview
+In this lab, I transitioned from host-based forensics to Network Traffic Monitoring. Using tcpdump, I captured and analyzed raw packets on the Kali Linux eth0 interface. The goal was to verify the TCP Three-Way Handshake and identify how applications establish secure connections at Layer 4 of the OSI model.
 
 Technical Evidence
 I executed a capture filtered for HTTPS traffic (port 443) to observe how my machine establishes secure sessions.
@@ -17,8 +18,7 @@ SYN-ACK: The server responded with permission ([S.]).
 
 ACK: My machine finalized the connection ([.]).
 
-[Insert a screenshot of your terminal showing those specific lines here]
-(Tip: Use the text you just sent me as the screenshot!)
+![Handshake Evidence](Evidence/tcpdump_traffic.png)
 
 Key Skills Demonstrated
 Packet Sniffing: Proficient in using tcpdump for real-time monitoring.
