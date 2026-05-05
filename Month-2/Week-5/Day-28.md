@@ -1,6 +1,6 @@
 
 ## Day 28: Network Traffic Analysis & TCP Handshake Verification ##
-🛰️ Lab Overview
+##🛰️ Lab Overview##
 In this lab, I transitioned from host-based forensics to Network Traffic Monitoring. Using tcpdump, I captured and analyzed raw packets on the Kali Linux eth0 interface. The goal was to verify the TCP Three-Way Handshake and identify how applications establish secure connections at Layer 4 of the OSI model.
 
 Technical Evidence
