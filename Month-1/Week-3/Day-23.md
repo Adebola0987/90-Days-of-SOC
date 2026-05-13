@@ -1,5 +1,5 @@
 # Advanced Endpoint Monitoring with Sysmon #
-## Objective ##
+# Objective #
 To enhance Windows logging capabilities beyond standard Event Viewer defaults by deploying Microsoft Sysinternals Sysmon. This provides deep visibility into process creations, network connections, and file system changes—essential for detecting advanced persistent threats (APTs).
 
 Technical Implementation
